@@ -68,10 +68,10 @@ const Clients = () => {
                    </div>
                 </div>
                 <a className="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
-                <i class='fa fa-angle-left'></i>
+                <i className='fa fa-angle-left'></i>
                 </a>
                 <a className="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
-                <i class='fa fa-angle-right'></i>
+                <i className='fa fa-angle-right'></i>
                 </a>
              </div>
           </div>
